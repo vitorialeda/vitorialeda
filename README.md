@@ -1,7 +1,7 @@
 ## :frog: Oi, tudo bem? :D
   
 <img src="https://i.pinimg.com/originals/39/8c/df/398cdf62407394390db27c67c90116db.gif">
-<p> Me chamo Vitória e estudo Sistemas de informação na Universidade do Sul e Sudeste do Pará - UNIFESSPA 🌱</p>
+<p> Me chamo Vitória e estudo Sistemas de Informação na Universidade do Sul e Sudeste do Pará - UNIFESSPA 🌱</p>
 
 
 ---
