@@ -1,6 +1,6 @@
 ##  Bom te ver aqui! 
   
-Me chamo Vitória, full-Stack Developer focada na construção e entrega de aplicações web. Tenho experiência do design ao deploy, utilizando Figma, React/Next.js, Node.js, Fastify/Express, e TypeScript, com PostgreSQL/SQLite via Prisma ou Drizzle. Também aplico práticas de DevSecOps, automatizando pipelines CI/CD e GitOps com GitHub Actions e ArgoCD, além de containerização com Docker, Kubernetes e infraestrutura AWS.
+Me chamo Vitória, Full-Stack Developer focada na construção e entrega de aplicações web.
 
 <p align="center">
   <img src="https://i.postimg.cc/hP17xbxD/image_2024_05_24_123915872.png" width="30%">
