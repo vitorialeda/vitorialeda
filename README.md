@@ -3,7 +3,11 @@
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1b2636" />
 </div>
 
-<h1>Que bom te ver!</h1>
+<!--
+<div align="center">
+<img src="https://files.malune.net/f/aaeri/deco/spinning_cat.gif"/>
+</div>
+--> 
 
 <details>
 <summary><h3>🛠️ Tecnologias e Ferramentas</h3></summary>
@@ -23,10 +27,7 @@
 ![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-<!-- ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) -->
-<!-- ![Drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black) -->
-<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
-<!-- ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) -->
+
 
 <p>DevOps</p>
 
@@ -61,9 +62,7 @@
 
 </details>
 
-<div align="center">
-<img src="https://files.malune.net/f/aaeri/deco/spinning_cat.gif"/>
-</div>
+
 
 
 <div align="center">
