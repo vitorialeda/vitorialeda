@@ -1,16 +1,8 @@
+### Oii, tudo bem? <img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="25"/>
 
-<div>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1b2636" />
-</div>
+Me chamo Vitória e estudo Sistemas de Informação na Universidade do Sul e Sudeste do Pará - UNIFESSPA 🌱
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=600&size=32&duration=3000&pause=1000&color=43618f&repeat=false&center=true&width=450&height=80&lines=Que+bom+te+ver+aqui!🌟" alt="Typing SVG" /></a>
-</div>
-<!--
-<div align="center">
-<img src="https://files.malune.net/f/aaeri/deco/spinning_cat.gif"/>
-</div>
---> 
+Atualmente estou focada na construção e entrega de aplicações web.
 
 <details>
 <summary><h3>🛠️ Tecnologias e Ferramentas</h3></summary>
@@ -67,7 +59,8 @@
 
 
 
-
+<!--
 <div>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1b2636&section=footer" />
 </div>
+-->
